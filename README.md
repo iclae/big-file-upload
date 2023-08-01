@@ -1,7 +1,7 @@
-# bigFileUpload
+# big-file-upload
 
-[![NPM version](https://img.shields.io/npm/v/bigFileUpload.svg?style=flat)](https://npmjs.org/package/bigFileUpload)
-[![NPM downloads](http://img.shields.io/npm/dm/bigFileUpload.svg?style=flat)](https://npmjs.org/package/bigFileUpload)
+[![NPM version](https://img.shields.io/npm/v/@iclae0/big-file-upload.svg?style=flat)](https://npmjs.org/package/@iclae0/big-file-upload)
+[![NPM downloads](http://img.shields.io/npm/dm/@iclae0/big-file-upload.svg?style=flat)](https://npmjs.org/package/@iclae0/big-file-upload)
 
 ## Install
 

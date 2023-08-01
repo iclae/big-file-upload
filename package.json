@@ -1,5 +1,5 @@
 {
-  "name": "big-file-upload",
+  "name": "@iclae0/big-file-upload",
   "version": "0.0.1",
   "description": "a big file upload tool",
   "module": "dist/esm/index.js",
