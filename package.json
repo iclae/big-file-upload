@@ -1,0 +1,35 @@
+{
+  "name": "big-file-upload",
+  "version": "0.0.1",
+  "description": "a big file upload tool",
+  "module": "dist/esm/index.js",
+  "types": "dist/esm/index.d.ts",
+  "scripts": {
+    "dev": "father dev",
+    "build": "father build",
+    "build:deps": "father prebundle",
+    "prepublishOnly": "father doctor && npm run build"
+  },
+  "keywords": [
+    "upload",
+    "bigFile"
+  ],
+  "authors": [
+    "iclae0@gmail.com"
+  ],
+  "license": "MIT",
+  "files": [
+    "dist",
+    "compiled"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "father": "^4.3.0"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.22.6",
+    "spark-md5": "^3.0.2"
+  }
+}
