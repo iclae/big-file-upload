@@ -6,7 +6,7 @@
 ## Install
 
 ```bash
-$ npm install big-file-upload
+$ npm install @iclae0/big-file-upload
 ```
 
 ## Use
