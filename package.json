@@ -2,6 +2,10 @@
   "name": "@iclae0/big-file-upload",
   "version": "0.0.2",
   "description": "a big file upload tool",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iclae/big-file-upload.git"
+  },
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
   "scripts": {
